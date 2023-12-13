@@ -1,0 +1,12 @@
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\bin\Debug\net6.0\CarWash.deps.json
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\bin\Debug\net6.0\CarWash.dll
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\bin\Debug\net6.0\CarWash.pdb
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.dll
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\refint\CarWash.dll
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\CarWash.pdb
+C:\Users\Админ\Desktop\Kyrsovoi\CarWash\CarWash\obj\Debug\net6.0\ref\CarWash.dll
